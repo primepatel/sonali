@@ -26,7 +26,7 @@
 21. Slick
 22. Responsive
 
- background: #e0e5ec;
+ background: #C9F0D6;
      box-shadow: -7px -7px 20px 0px #fff9,
       -4px -4px 5px 0px #fff9,
       7px 7px 20px 0px #0002,
@@ -88,7 +88,7 @@ html {
 
 body {
   color: #5E5C7F;
-  background-color: #e0e5ec;
+  background-color: #C9F0D6;
   font-family: "Rubik", sans-serif;
   font-size: 16px;
   line-height: 1.7;
@@ -168,7 +168,7 @@ blockquote {
   padding: 20px 20px;
   margin: 0 0 20px;
   font-size: 16px;
-  background: #e0e5ec;
+  background: #C9F0D6;
   border-radius: 10px;
 }
 
@@ -186,7 +186,7 @@ pre {
   color: #333;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #e0e5ec;
+  background-color: #C9F0D6;
   border: 1px solid #ccc;
   border-radius: 0;
 }
@@ -446,7 +446,7 @@ pre {
           transform: translate(-50%, -50%);
 }
 #preloader.light {
-  background: #e0e5ec;
+  background: #C9F0D6;
 }
 
 .goo-outer {
@@ -516,7 +516,7 @@ section.home .social-icons li a {
   color: #FFF;
 }
 section.home.light {
-  background: #e0e5ec;
+  background: #C9F0D6;
 }
 section.home.light .intro h1 {
   color: #282642;
@@ -729,7 +729,7 @@ section.home.light .social-icons li a:hover {
   transition: all 0.3s ease-in-out;
 }
 .portfolio-item .mask {
-  background: #e0e5ec;
+  background: #C9F0D6;
   position: absolute;
   left: 0;
   top: 0;
@@ -988,7 +988,7 @@ select.portfolio-filter-mobile {
 }
 
 .blog-page-section {
-  background-color: #e0e5ec;
+  background-color: #C9F0D6;
   padding-bottom: 70px;
 }
 .blog-page-section .blog-img-text {
@@ -1105,7 +1105,7 @@ select.portfolio-filter-mobile {
 .blog-page-section .widget .searchform input[type=text] {
   border-radius: 30px;
   border: 0;
-  background: #e0e5ec;
+  background: #C9F0D6;
   padding: 6px 20px;
   max-width: 190px;
 }
@@ -1129,7 +1129,7 @@ select.portfolio-filter-mobile {
   padding-left: 1.1rem;
 }
 .blog-page-section .blog-single {
-  background: #e0e5ec;
+  background: #C9F0D6;
   padding: 30px;
   border-radius: 20px;
 }
@@ -1151,7 +1151,7 @@ select.portfolio-filter-mobile {
 .blog-page-section .comment-respond input[type=url] {
   border-radius: 30px;
   border: 0;
-  background: #e0e5ec;
+  background: #C9F0D6;
   padding: 6px 20px;
   outline: 0;
   max-width: 100%;
@@ -1388,7 +1388,7 @@ select.portfolio-filter-mobile {
   width: 20px;
 }
 .mouse .wheel {
-  background: #e0e5ec;
+  background: #C9F0D6;
   border-radius: 100%;
   display: block;
   position: absolute;
@@ -1417,7 +1417,7 @@ footer.footer .copyright {
   font-size: 14px;
 }
 footer.footer.light {
-  background: #e0e5ec;
+  background: #C9F0D6;
   border-top: solid 1px rgba(0, 0, 0, 0.05);
 }
 
@@ -1608,7 +1608,7 @@ body.dark .blog-page-section .blog-single {
   height: 7px;
   margin-bottom: 0;
   overflow: hidden;
-  background-color: #e0e5ec;
+  background-color: #C9F0D6;
   border-radius: 15px;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -1642,7 +1642,7 @@ body.dark .blog-page-section .blog-single {
   font-weight: 400;
   line-height: 1.6;
   color: #454360;
-  background-color: #e0e5ec;
+  background-color: #C9F0D6;
   background-image: none;
   border: 0;
   -webkit-box-shadow: none;
@@ -1651,7 +1651,7 @@ body.dark .blog-page-section .blog-single {
 
 .form-control:focus{
   outline: 0;
-  background: #e0e5ec;
+  background: #C9F0D6;
 
 }
 
@@ -1743,7 +1743,7 @@ body.dark .blog-page-section .blog-single {
   line-height: 1.42857143;
   color: #1a1a1a;
   text-decoration: none;
-  background-color: #e0e5ec;
+  background-color: #C9F0D6;
   border: 1px solid #EEE;
   border-radius: 50%;
   width: 46px;
@@ -1781,7 +1781,7 @@ body.dark .blog-page-section .blog-single {
 
 .timeline.edu .timeline-container::after {
   content: "";
-  background: #e0e5ec;
+  background: #C9F0D6;
   font-family: "simple-line-icons";
   font-size: 24px;
   color: #FF4C60;
@@ -1793,7 +1793,7 @@ body.dark .blog-page-section .blog-single {
 
 .timeline.exp .timeline-container::after {
   content: "";
-  background: #e0e5ec;
+  background: #C9F0D6;
   font-family: "simple-line-icons";
   font-size: 24px;
   color: #FF4C60;
@@ -1905,7 +1905,7 @@ body.dark .blog-page-section .blog-single {
 }
 
 .bg-white {
-  background: #e0e5ec !important;
+  background: #C9F0D6 !important;
 }
 
 .shadow-dark, .desktop-header-3 .dropdown-menu, .form-control, .form-control:focus {
@@ -2025,7 +2025,7 @@ body.dark .blog-page-section .blog-single {
 
 /* Styles for dialog window */
 .white-popup {
-  background: #e0e5ec;
+  background: #C9F0D6;
   border-radius: 25px;
   padding: 30px;
   text-align: left;
@@ -2140,7 +2140,7 @@ body.dark .blog-page-section .blog-single {
 
 .slick-prev:before {
   content: "";
-  background: #e0e5ec;
+  background: #C9F0D6;
   display: block;
   width: 1px;
   height: 14px;
@@ -2155,7 +2155,7 @@ body.dark .blog-page-section .blog-single {
 
 .slick-prev:after {
   content: "";
-  background: #e0e5ec;
+  background: #C9F0D6;
   display: block;
   width: 1px;
   height: 14px;
@@ -2170,7 +2170,7 @@ body.dark .blog-page-section .blog-single {
 
 .slick-next:before {
   content: "";
-  background: #e0e5ec;
+  background: #C9F0D6;
   display: block;
   width: 1px;
   height: 14px;
@@ -2185,7 +2185,7 @@ body.dark .blog-page-section .blog-single {
 
 .slick-next:after {
   content: "";
-  background: #e0e5ec;
+  background: #C9F0D6;
   display: block;
   width: 1px;
   height: 14px;
@@ -2236,7 +2236,7 @@ body.dark .blog-page-section .blog-single {
 
 .slick-dots li button:before {
   content: "";
-  background: #e0e5ec;
+  background: #C9F0D6;
   border-radius: 3px;
   opacity: 1;
   height: 6px;
@@ -2355,7 +2355,7 @@ body {
     height: 0;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
-    border-right: 15px solid #E0E5EC;
+    border-right: 15px solid #C9F0D6;
     position: absolute;
     left: 0;
     top: 20%;
